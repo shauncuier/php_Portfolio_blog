@@ -8,7 +8,7 @@ include ('include/header.php');
 
 <!-- Main Content -->
 
-
+<h1>This is Blog Page</h1>
 <!-- Main Content  -->
 
 <!-- Footer -->
