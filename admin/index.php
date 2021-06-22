@@ -22,13 +22,19 @@ include ('include/header.php');
                 <a class="inline-block py-2 px-4 text-white no-underline" href="#">Home</a>
             </li>
             <li class="flex-1 md:flex-none md:mr-3">
-                <a class="inline-block text-gray-200 no-underline hover:text-gray-200 hover:text-underline py-2 px-4" href="#">link</a>
+                <a class="inline-block text-gray-200 no-underline hover:text-yellow-200 hover:text-underline py-2 px-4" href="#">Post</a>
             </li>
             <li class="flex-1 md:flex-none md:mr-3">
-                <a class="inline-block text-gray-200 no-underline hover:text-gray-200 hover:text-underline py-2 px-4" href="#">link</a>
+                <a class="inline-block text-gray-200 no-underline hover:text-gray-200 hover:text-underline py-2 px-4" href="#">Portfolio</a>
             </li>
             <li class="flex-1 md:flex-none md:mr-3">
-                <a class="inline-block text-gray-200 no-underline hover:text-gray-200 hover:text-underline py-2 px-4" href="#">link</a>
+                <a class="inline-block text-gray-200 no-underline hover:text-gray-200 hover:text-underline py-2 px-4" href="#">Login</a>
+            </li>
+            <li class="flex-1 md:flex-none md:mr-3">
+                <a class="inline-block text-gray-200 no-underline hover:text-gray-200 hover:text-underline py-2 px-4" href="#">Register</a>
+            </li>
+            <li class="flex-1 md:flex-none md:mr-3">
+                <a class="inline-block text-gray-200 no-underline hover:text-gray-200 hover:text-underline py-2 px-4" href="#">SingOut</a>
             </li>
         </ul>
     </div>
