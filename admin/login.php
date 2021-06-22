@@ -13,7 +13,6 @@ include('include/basicinfo.php');
     <link rel="stylesheet" href="css/form.css">
 </head>
 <body>
-<!-- <h2>Weekly Coding Challenge #1: Sign in/up Form</h2> -->
 <div class="container" id="container">
 	<div class="form-container sign-up-container">
 		<form action="include/register.inc.php" method="post">
