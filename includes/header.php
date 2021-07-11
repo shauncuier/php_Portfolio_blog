@@ -25,7 +25,7 @@ switch ($active){
     case "contact.php":
         $contact = "active";
         break;
-    case "admin/login.php":
+    case "admin/index.php":
         $admin = "active";
         break;
 
@@ -70,7 +70,7 @@ switch ($active){
         </li>
         <li class="icon-box <?php echo $admin ?>">
             <i class="fa fa-user"></i>
-            <a target="_blank" href="admin/login.php">
+            <a target="_blank" href="admin/index.php">
                 <h2>Admin</h2>
             </a>
         </li>

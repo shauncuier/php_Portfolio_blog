@@ -13,17 +13,17 @@
 ?>
 
 <!-- Page Title Starts -->
-<section class="title-section text-left text-sm-center revealator-slideup revealator-once revealator-delay1">
+<section class="text-left title-section text-sm-center revealator-slideup revealator-once revealator-delay1">
     <h1>my <span>portfolio</span></h1>
     <span class="title-bg">works</span>
 </section>
 <!-- Page Title Ends -->
 <!-- Main Content Starts -->
-<section class="main-content text-center revealator-slideup revealator-once revealator-delay1">
+<section class="text-center main-content revealator-slideup revealator-once revealator-delay1">
     <div id="grid-gallery" class="container grid-gallery">
         <!-- Portfolio Grid Starts -->
         <section class="grid-wrap">
-            <ul class="row grid">
+            <ul class="grid row">
                 <!-- Portfolio Item Starts -->
                 <li>
                     <figure>
@@ -32,6 +32,7 @@
                     </figure>
                 </li>
                 <!-- Portfolio Item Ends -->
+                
                 <!-- Portfolio Item Starts -->
                 <li>
                     <figure>
@@ -109,17 +110,17 @@
                         <figcaption>
                             <h3>Image Project</h3>
                             <div class="row open-sans-font">
-                                <div class="col-12 col-sm-6 mb-2">
-                                    <i class="fa fa-file-text-o pr-2"></i><span class="project-label">Project </span>: <span class="ft-wt-600 uppercase">Website</span>
+                                <div class="mb-2 col-12 col-sm-6">
+                                    <i class="pr-2 fa fa-file-text-o"></i><span class="project-label">Project </span>: <span class="uppercase ft-wt-600">Website</span>
                                 </div>
-                                <div class="col-12 col-sm-6 mb-2">
-                                    <i class="fa fa-user-o pr-2"></i><span class="project-label">Client </span>: <span class="ft-wt-600 uppercase">Envato</span>
+                                <div class="mb-2 col-12 col-sm-6">
+                                    <i class="pr-2 fa fa-user-o"></i><span class="project-label">Client </span>: <span class="uppercase ft-wt-600">Envato</span>
                                 </div>
-                                <div class="col-12 col-sm-6 mb-2">
-                                    <i class="fa fa-code pr-2"></i><span class="project-label">Langages </span>: <span class="ft-wt-600 uppercase">HTML, CSS, Javascript</span>
+                                <div class="mb-2 col-12 col-sm-6">
+                                    <i class="pr-2 fa fa-code"></i><span class="project-label">Langages </span>: <span class="uppercase ft-wt-600">HTML, CSS, Javascript</span>
                                 </div>
-                                <div class="col-12 col-sm-6 mb-2">
-                                    <i class="fa fa-external-link pr-2"></i><span class="project-label">Preview </span>: <span class="ft-wt-600 uppercase"><a href="#" target="_blank">www.envato.com</a></span>
+                                <div class="mb-2 col-12 col-sm-6">
+                                    <i class="pr-2 fa fa-external-link"></i><span class="project-label">Preview </span>: <span class="uppercase ft-wt-600"><a href="#" target="_blank">www.envato.com</a></span>
                                 </div>
                             </div>
                         </figcaption>
@@ -137,17 +138,17 @@
                         <figcaption>
                             <h3>Youtube Project</h3>
                             <div class="row open-sans-font">
-                                <div class="col-6 mb-2">
-                                    <i class="fa fa-file-text-o pr-2"></i><span class="project-label">Project </span>: <span class="ft-wt-600 uppercase">Video</span>
+                                <div class="mb-2 col-6">
+                                    <i class="pr-2 fa fa-file-text-o"></i><span class="project-label">Project </span>: <span class="uppercase ft-wt-600">Video</span>
                                 </div>
-                                <div class="col-6 mb-2">
-                                    <i class="fa fa-user-o pr-2"></i><span class="project-label">Client </span>: <span class="ft-wt-600 uppercase">Videohive</span>
+                                <div class="mb-2 col-6">
+                                    <i class="pr-2 fa fa-user-o"></i><span class="project-label">Client </span>: <span class="uppercase ft-wt-600">Videohive</span>
                                 </div>
-                                <div class="col-6 mb-2">
-                                    <i class="fa fa-code pr-2"></i><span class="project-label">Langages </span>: <span class="ft-wt-600 uppercase">Adobe After Effects</span>
+                                <div class="mb-2 col-6">
+                                    <i class="pr-2 fa fa-code"></i><span class="project-label">Langages </span>: <span class="uppercase ft-wt-600">Adobe After Effects</span>
                                 </div>
-                                <div class="col-6 mb-2">
-                                    <i class="fa fa-external-link pr-2"></i><span class="project-label">Preview </span>: <span class="ft-wt-600 uppercase"><a href="#" target="_blank">www.videohive.net</a></span>
+                                <div class="mb-2 col-6">
+                                    <i class="pr-2 fa fa-external-link"></i><span class="project-label">Preview </span>: <span class="uppercase ft-wt-600"><a href="#" target="_blank">www.videohive.net</a></span>
                                 </div>
                             </div>
                         </figcaption>
@@ -167,17 +168,17 @@
                         <figcaption>
                             <h3>Slider Project</h3>
                             <div class="row open-sans-font">
-                                <div class="col-6 mb-2">
-                                    <i class="fa fa-file-text-o pr-2"></i><span class="project-label">Project </span>: <span class="ft-wt-600 uppercase">Website</span>
+                                <div class="mb-2 col-6">
+                                    <i class="pr-2 fa fa-file-text-o"></i><span class="project-label">Project </span>: <span class="uppercase ft-wt-600">Website</span>
                                 </div>
-                                <div class="col-6 mb-2">
-                                    <i class="fa fa-user-o pr-2"></i><span class="project-label">Client </span>: <span class="ft-wt-600 uppercase">Themeforest</span>
+                                <div class="mb-2 col-6">
+                                    <i class="pr-2 fa fa-user-o"></i><span class="project-label">Client </span>: <span class="uppercase ft-wt-600">Themeforest</span>
                                 </div>
-                                <div class="col-6 mb-2">
-                                    <i class="fa fa-code pr-2"></i><span class="project-label">Langages </span>: <span class="ft-wt-600 uppercase">HTML, CSS, Javascript</span>
+                                <div class="mb-2 col-6">
+                                    <i class="pr-2 fa fa-code"></i><span class="project-label">Langages </span>: <span class="uppercase ft-wt-600">HTML, CSS, Javascript</span>
                                 </div>
-                                <div class="col-6 mb-2">
-                                    <i class="fa fa-external-link pr-2"></i><span class="project-label">Preview </span>: <span class="ft-wt-600 uppercase"><a href="#" target="_blank">www.themeforest.net</a></span>
+                                <div class="mb-2 col-6">
+                                    <i class="pr-2 fa fa-external-link"></i><span class="project-label">Preview </span>: <span class="uppercase ft-wt-600"><a href="#" target="_blank">www.themeforest.net</a></span>
                                 </div>
                             </div>
                         </figcaption>
@@ -213,17 +214,17 @@
                         <figcaption>
                             <h3>Local Video Project</h3>
                             <div class="row open-sans-font">
-                                <div class="col-6 mb-2">
-                                    <i class="fa fa-file-text-o pr-2"></i><span class="project-label">Project </span>: <span class="ft-wt-600 uppercase">Video</span>
+                                <div class="mb-2 col-6">
+                                    <i class="pr-2 fa fa-file-text-o"></i><span class="project-label">Project </span>: <span class="uppercase ft-wt-600">Video</span>
                                 </div>
-                                <div class="col-6 mb-2">
-                                    <i class="fa fa-user-o pr-2"></i><span class="project-label">Client </span>: <span class="ft-wt-600 uppercase">Videohive</span>
+                                <div class="mb-2 col-6">
+                                    <i class="pr-2 fa fa-user-o"></i><span class="project-label">Client </span>: <span class="uppercase ft-wt-600">Videohive</span>
                                 </div>
-                                <div class="col-6 mb-2">
-                                    <i class="fa fa-code pr-2"></i><span class="project-label">Langages </span>: <span class="ft-wt-600 uppercase">Adobe Premium</span>
+                                <div class="mb-2 col-6">
+                                    <i class="pr-2 fa fa-code"></i><span class="project-label">Langages </span>: <span class="uppercase ft-wt-600">Adobe Premium</span>
                                 </div>
-                                <div class="col-6 mb-2">
-                                    <i class="fa fa-external-link pr-2"></i><span class="project-label">Preview </span>: <span class="ft-wt-600 uppercase"><a href="#" target="_blank">www.envato.com</a></span>
+                                <div class="mb-2 col-6">
+                                    <i class="pr-2 fa fa-external-link"></i><span class="project-label">Preview </span>: <span class="uppercase ft-wt-600"><a href="#" target="_blank">www.envato.com</a></span>
                                 </div>
                             </div>
                         </figcaption>
@@ -243,17 +244,17 @@
                         <figcaption>
                             <h3>Image Project</h3>
                             <div class="row open-sans-font">
-                                <div class="col-6 mb-2">
-                                    <i class="fa fa-file-text-o pr-2"></i><span class="project-label">Project </span>: <span class="ft-wt-600 uppercase">Website</span>
+                                <div class="mb-2 col-6">
+                                    <i class="pr-2 fa fa-file-text-o"></i><span class="project-label">Project </span>: <span class="uppercase ft-wt-600">Website</span>
                                 </div>
-                                <div class="col-6 mb-2">
-                                    <i class="fa fa-user-o pr-2"></i><span class="project-label">Client </span>: <span class="ft-wt-600 uppercase">Envato</span>
+                                <div class="mb-2 col-6">
+                                    <i class="pr-2 fa fa-user-o"></i><span class="project-label">Client </span>: <span class="uppercase ft-wt-600">Envato</span>
                                 </div>
-                                <div class="col-6 mb-2">
-                                    <i class="fa fa-code pr-2"></i><span class="project-label">Langages </span>: <span class="ft-wt-600 uppercase">HTML, CSS, Javascript</span>
+                                <div class="mb-2 col-6">
+                                    <i class="pr-2 fa fa-code"></i><span class="project-label">Langages </span>: <span class="uppercase ft-wt-600">HTML, CSS, Javascript</span>
                                 </div>
-                                <div class="col-6 mb-2">
-                                    <i class="fa fa-external-link pr-2"></i><span class="project-label">Preview </span>: <span class="ft-wt-600 uppercase"><a href="#" target="_blank">www.envato.com</a></span>
+                                <div class="mb-2 col-6">
+                                    <i class="pr-2 fa fa-external-link"></i><span class="project-label">Preview </span>: <span class="uppercase ft-wt-600"><a href="#" target="_blank">www.envato.com</a></span>
                                 </div>
                             </div>
                         </figcaption>
@@ -271,17 +272,17 @@
                         <figcaption>
                             <h3>Image Project</h3>
                             <div class="row open-sans-font">
-                                <div class="col-6 mb-2">
-                                    <i class="fa fa-file-text-o pr-2"></i><span class="project-label">Project </span>: <span class="ft-wt-600 uppercase">Website</span>
+                                <div class="mb-2 col-6">
+                                    <i class="pr-2 fa fa-file-text-o"></i><span class="project-label">Project </span>: <span class="uppercase ft-wt-600">Website</span>
                                 </div>
-                                <div class="col-6 mb-2">
-                                    <i class="fa fa-user-o pr-2"></i><span class="project-label">Client </span>: <span class="ft-wt-600 uppercase">Envato</span>
+                                <div class="mb-2 col-6">
+                                    <i class="pr-2 fa fa-user-o"></i><span class="project-label">Client </span>: <span class="uppercase ft-wt-600">Envato</span>
                                 </div>
-                                <div class="col-6 mb-2">
-                                    <i class="fa fa-code pr-2"></i><span class="project-label">Langages </span>: <span class="ft-wt-600 uppercase">HTML, CSS, Javascript</span>
+                                <div class="mb-2 col-6">
+                                    <i class="pr-2 fa fa-code"></i><span class="project-label">Langages </span>: <span class="uppercase ft-wt-600">HTML, CSS, Javascript</span>
                                 </div>
-                                <div class="col-6 mb-2">
-                                    <i class="fa fa-external-link pr-2"></i><span class="project-label">Preview </span>: <span class="ft-wt-600 uppercase"><a href="#" target="_blank">www.envato.com</a></span>
+                                <div class="mb-2 col-6">
+                                    <i class="pr-2 fa fa-external-link"></i><span class="project-label">Preview </span>: <span class="uppercase ft-wt-600"><a href="#" target="_blank">www.envato.com</a></span>
                                 </div>
                             </div>
                         </figcaption>
@@ -299,17 +300,17 @@
                         <figcaption>
                             <h3>Image Project</h3>
                             <div class="row open-sans-font">
-                                <div class="col-6 mb-2">
-                                    <i class="fa fa-file-text-o pr-2"></i><span class="project-label">Project </span>: <span class="ft-wt-600 uppercase">Website</span>
+                                <div class="mb-2 col-6">
+                                    <i class="pr-2 fa fa-file-text-o"></i><span class="project-label">Project </span>: <span class="uppercase ft-wt-600">Website</span>
                                 </div>
-                                <div class="col-6 mb-2">
-                                    <i class="fa fa-user-o pr-2"></i><span class="project-label">Client </span>: <span class="ft-wt-600 uppercase">Envato</span>
+                                <div class="mb-2 col-6">
+                                    <i class="pr-2 fa fa-user-o"></i><span class="project-label">Client </span>: <span class="uppercase ft-wt-600">Envato</span>
                                 </div>
-                                <div class="col-6 mb-2">
-                                    <i class="fa fa-code pr-2"></i><span class="project-label">Langages </span>: <span class="ft-wt-600 uppercase">HTML, CSS, Javascript</span>
+                                <div class="mb-2 col-6">
+                                    <i class="pr-2 fa fa-code"></i><span class="project-label">Langages </span>: <span class="uppercase ft-wt-600">HTML, CSS, Javascript</span>
                                 </div>
-                                <div class="col-6 mb-2">
-                                    <i class="fa fa-external-link pr-2"></i><span class="project-label">Preview </span>: <span class="ft-wt-600 uppercase"><a href="#" target="_blank">www.envato.com</a></span>
+                                <div class="mb-2 col-6">
+                                    <i class="pr-2 fa fa-external-link"></i><span class="project-label">Preview </span>: <span class="uppercase ft-wt-600"><a href="#" target="_blank">www.envato.com</a></span>
                                 </div>
                             </div>
                         </figcaption>
@@ -327,17 +328,17 @@
                         <figcaption>
                             <h3>Image Project</h3>
                             <div class="row open-sans-font">
-                                <div class="col-6 mb-2">
-                                    <i class="fa fa-file-text-o pr-2"></i><span class="project-label">Project </span>: <span class="ft-wt-600 uppercase">Website</span>
+                                <div class="mb-2 col-6">
+                                    <i class="pr-2 fa fa-file-text-o"></i><span class="project-label">Project </span>: <span class="uppercase ft-wt-600">Website</span>
                                 </div>
-                                <div class="col-6 mb-2">
-                                    <i class="fa fa-user-o pr-2"></i><span class="project-label">Client </span>: <span class="ft-wt-600 uppercase">Envato</span>
+                                <div class="mb-2 col-6">
+                                    <i class="pr-2 fa fa-user-o"></i><span class="project-label">Client </span>: <span class="uppercase ft-wt-600">Envato</span>
                                 </div>
-                                <div class="col-6 mb-2">
-                                    <i class="fa fa-code pr-2"></i><span class="project-label">Langages </span>: <span class="ft-wt-600 uppercase">HTML, CSS, Javascript</span>
+                                <div class="mb-2 col-6">
+                                    <i class="pr-2 fa fa-code"></i><span class="project-label">Langages </span>: <span class="uppercase ft-wt-600">HTML, CSS, Javascript</span>
                                 </div>
-                                <div class="col-6 mb-2">
-                                    <i class="fa fa-external-link pr-2"></i><span class="project-label">Preview </span>: <span class="ft-wt-600 uppercase"><a href="#" target="_blank">www.envato.com</a></span>
+                                <div class="mb-2 col-6">
+                                    <i class="pr-2 fa fa-external-link"></i><span class="project-label">Preview </span>: <span class="uppercase ft-wt-600"><a href="#" target="_blank">www.envato.com</a></span>
                                 </div>
                             </div>
                         </figcaption>
@@ -355,17 +356,17 @@
                         <figcaption>
                             <h3>Image Project</h3>
                             <div class="row open-sans-font">
-                                <div class="col-6 mb-2">
-                                    <i class="fa fa-file-text-o pr-2"></i><span class="project-label">Project </span>: <span class="ft-wt-600 uppercase">Website</span>
+                                <div class="mb-2 col-6">
+                                    <i class="pr-2 fa fa-file-text-o"></i><span class="project-label">Project </span>: <span class="uppercase ft-wt-600">Website</span>
                                 </div>
-                                <div class="col-6 mb-2">
-                                    <i class="fa fa-user-o pr-2"></i><span class="project-label">Client </span>: <span class="ft-wt-600 uppercase">Envato</span>
+                                <div class="mb-2 col-6">
+                                    <i class="pr-2 fa fa-user-o"></i><span class="project-label">Client </span>: <span class="uppercase ft-wt-600">Envato</span>
                                 </div>
-                                <div class="col-6 mb-2">
-                                    <i class="fa fa-code pr-2"></i><span class="project-label">Langages </span>: <span class="ft-wt-600 uppercase">HTML, CSS, Javascript</span>
+                                <div class="mb-2 col-6">
+                                    <i class="pr-2 fa fa-code"></i><span class="project-label">Langages </span>: <span class="uppercase ft-wt-600">HTML, CSS, Javascript</span>
                                 </div>
-                                <div class="col-6 mb-2">
-                                    <i class="fa fa-external-link pr-2"></i><span class="project-label">Preview </span>: <span class="ft-wt-600 uppercase"><a href="#" target="_blank">www.envato.com</a></span>
+                                <div class="mb-2 col-6">
+                                    <i class="pr-2 fa fa-external-link"></i><span class="project-label">Preview </span>: <span class="uppercase ft-wt-600"><a href="#" target="_blank">www.envato.com</a></span>
                                 </div>
                             </div>
                         </figcaption>

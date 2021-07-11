@@ -2,6 +2,14 @@
 <!-- Header -->
 <?php 
 include ('include/header.php');
+session_start();
+include("./include/db.inc.php");
+include("./include/functions.php");
+
+$user_data = check_login($con);
+
+
+
 ?>
 
 <!-- Header -->
@@ -27,14 +35,14 @@ include ('include/header.php');
             <li class="flex-1 md:flex-none md:mr-3">
                 <a class="inline-block text-gray-200 no-underline hover:text-gray-200 hover:text-underline py-2 px-4" href="#">Portfolio</a>
             </li>
-            <li class="flex-1 md:flex-none md:mr-3">
+            <!-- <li class="flex-1 md:flex-none md:mr-3">
                 <a class="inline-block text-gray-200 no-underline hover:text-gray-200 hover:text-underline py-2 px-4" href="#">Login</a>
-            </li>
-            <li class="flex-1 md:flex-none md:mr-3">
+            </li> -->
+            <!-- <li class="flex-1 md:flex-none md:mr-3">
                 <a class="inline-block text-gray-200 no-underline hover:text-gray-200 hover:text-underline py-2 px-4" href="#">Register</a>
-            </li>
+            </li> -->
             <li class="flex-1 md:flex-none md:mr-3">
-                <a class="inline-block text-gray-200 no-underline hover:text-gray-200 hover:text-underline py-2 px-4" href="#">SingOut</a>
+                <a class="inline-block text-gray-200 no-underline hover:text-gray-200 hover:text-underline py-2 px-4" href="./include/singout.inc.php">SingOut</a>
             </li>
         </ul>
     </div>

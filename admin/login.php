@@ -23,10 +23,10 @@ include('include/basicinfo.php');
 				<a target="_blank" href="<?php echo $linkedin?>" class="social"><i class="fab fa-linkedin-in"></i></a>
 			</div>
 			<span>or use your email for registration</span>
-			<input type="text" placeholder="Name" />
-			<input type="email" placeholder="Email" />
-			<input type="password" placeholder="Password" />
-			<button>Sign Up</button>
+			<input type="text" placeholder="Name" name="user_name"/>
+			<!-- <input type="email" placeholder="Email" name="email"/> -->
+			<input type="password" placeholder="Password" name="password"/>
+			<button type="submit" value="singup">Sign Up</button>
 		</form>
 	</div>
 	<div class="form-container sign-in-container">
@@ -38,10 +38,11 @@ include('include/basicinfo.php');
 				<a target="_blank" href="<?php echo $linkedin?>" class="social"><i class="fab fa-linkedin-in"></i></a>
 			</div>
 			<span>or use your account</span>
-			<input type="email" placeholder="Email" />
-			<input type="password" placeholder="Password" />
+			<input type="text" placeholder="User Name" name="user_name"/>
+			<!-- <input type="email" placeholder="Email" name="email"/> -->
+			<input type="password" placeholder="Password" name="password"/>
 			<a href="#">Forgot your password?</a>
-			<button>Sign In</button>
+			<button type="submit" value="singin">Sign In</button>
 		</form>
 	</div>
 	<div class="overlay-container">
