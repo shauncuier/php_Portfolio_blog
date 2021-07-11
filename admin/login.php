@@ -22,10 +22,10 @@ include('include/basicinfo.php');
 				<a target="_blank" href="<?php echo $twitter?>" class="social"><i class="fab fa-twitter"></i></a>
 				<a target="_blank" href="<?php echo $linkedin?>" class="social"><i class="fab fa-linkedin-in"></i></a>
 			</div>
-			<span>or use your email for registration</span>
-			<input type="text" placeholder="Name" name="user_name"/>
+			<span>or use your user name for registration</span>
+			<input required type="text" placeholder="User Name" name="user_name"/>
 			<!-- <input type="email" placeholder="Email" name="email"/> -->
-			<input type="password" placeholder="Password" name="password"/>
+			<input required type="password" placeholder="Password" name="password"/>
 			<button type="submit" value="singup">Sign Up</button>
 		</form>
 	</div>
@@ -38,10 +38,10 @@ include('include/basicinfo.php');
 				<a target="_blank" href="<?php echo $linkedin?>" class="social"><i class="fab fa-linkedin-in"></i></a>
 			</div>
 			<span>or use your account</span>
-			<input type="text" placeholder="User Name" name="user_name"/>
+			<input required type="text" placeholder="User Name" name="user_name"/>
 			<!-- <input type="email" placeholder="Email" name="email"/> -->
-			<input type="password" placeholder="Password" name="password"/>
-			<a href="#">Forgot your password?</a>
+			<input required type="password" placeholder="Password" name="password"/>
+			<a href="./include/forgotpassword.inc.php">Forgot your password?</a>
 			<button type="submit" value="singin">Sign In</button>
 		</form>
 	</div>
